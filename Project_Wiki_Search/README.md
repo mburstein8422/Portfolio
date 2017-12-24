@@ -5,8 +5,6 @@ The objective of the project was to engineer a novel wikipedia search engine usi
 
 The task has was compelted in the following two phases:
 
-![](http://interactive.blockdiag.com/image?compression=deflate&encoding=base64&src=eJxdjrsOwjAMRXe-wlsmRhaQkDoiMSDxBW5slahtHDmGCiH-nfQxtKy-59zruhPfUsAGPjsA56XvMdIRSIbYCZKD_RncENqQuGBQ3S7TidCwxsynjZUZ1T8m4HqvJlXZnhrBJMHBbWlTDHEeSFravYUXQy_E3TKrwbioMKb5z16UmRxfXZurVY_GjegbhqJIjaXm-wNmzE4W)
-
 ### Phase 1 -- Collection 
 
 Query the wikipedia API and collect all of the articles under the following wikipedia categories:
